@@ -19,7 +19,7 @@ Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do
 
 <br />
 
-<a href="/praticando-os-conceitos" target="_blank">
+<a href="https://github.com/EmanuelJorge3MA/PlayerDeMusica/tree/master/src" target="_blank">
 <img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
 </a>
 
