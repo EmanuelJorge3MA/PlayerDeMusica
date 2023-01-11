@@ -6,7 +6,7 @@ Repositório destinado a armazenar todo código fonte a  resoluçãos do desafio
 &nbsp;
 
 ## Desafio 01 - Player de Música
-<img src="https://user-images.githubusercontent.com/71772559/178170317-063200c0-4605-491a-80df-421ae6eef864.png" align="center" />
+<img src="https://github.com/EmanuelJorge3MA/PlayerDeMusica/blob/master/src/assets/playerdemuscia.png?raw=true" align="center" />
 
 Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do zero uma simples lista de tarefas com as opções de criar e apagar um item da lista.
 
